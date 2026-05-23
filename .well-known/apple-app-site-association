@@ -1,0 +1,16 @@
+{
+  "appclips": {
+    "apps": [
+      "5ZN65G9XBS.com.urlpages.tp.Clip"
+    ]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "5ZN65G9XBS.com.urlpages.tp.Clip",
+        "paths": [ "/c", "/c?*" ]
+      }
+    ]
+  }
+}
